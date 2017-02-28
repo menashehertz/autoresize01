@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					46CE76061E64E1DA0015A9CE = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = MZ552MTEJZ;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,6 +259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = MZ552MTEJZ;
 				INFOPLIST_FILE = "AutoResize 01/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.t4e.AutoResize-01";
@@ -270,6 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = MZ552MTEJZ;
 				INFOPLIST_FILE = "AutoResize 01/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.t4e.AutoResize-01";
